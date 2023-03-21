@@ -4,6 +4,7 @@
 * ***e-mail: tanya.kucheba@gmail.com***
 * ***phone: +48661993310***
 * ***address: Szczecin, Poland***
+* ***Discord @TatianaKucheba#2496***
 
 **Trainee Frontend-Developer**
 
@@ -19,8 +20,24 @@ From 2016 to 2022 worked in different restaurants as an administrator, have an e
  
 ## **EDUCATION**
 * ***2010-2013*** College of foreign languages Lingva, Karaganda, Kazakhstan, interpreter. 
-* ***2022-present***  RS School - front-end developer. 
- 
+* ***2022-present***  RS School - front-end developer.
+
+## **Skills**
+* HTML5;
+* CSS basics;
+* JS basics;
+* VS Code;
+* Git
+
+## **Study projects**
+* Accordion CSS https://tatianakucheba.github.io/cssBayan/cssBayan
+
+## **Examples of code**
+ ```function highAndLow(numbers){
+  numbers = numbers.split(' ').map(Number);
+  return Math.max.apply(0, numbers) + ' ' + Math.min.apply(0, numbers);
+}
+```
 
 ***Languages***: 
 * Russian – native 
